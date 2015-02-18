@@ -1,0 +1,32 @@
+{
+  "name": "rpclevel",
+  "description": "",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/rpclevel.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": ""
+  },
+  "dependencies": {
+    "abstract-leveldown": "^2.1.0",
+    "has": "^1.0.0",
+    "inherits": "^2.0.1",
+    "level-manifest": "^1.2.0",
+    "level-option-wrap": "^1.1.0",
+    "mux-demux": "^3.7.9",
+    "rpc-stream": "^2.1.1",
+    "tmp-stream": "^0.3.2"
+  },
+  "devDependencies": {
+    "level": "^0.18.0",
+    "levelup": "^0.19.0",
+    "pump": "^1.0.0",
+    "request": "^2.53.0",
+    "routes-router": "^4.1.2",
+    "subleveldown": "^2.0.0",
+    "tape": "^3.5.0"
+  }
+}
