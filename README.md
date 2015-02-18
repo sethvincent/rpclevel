@@ -1,6 +1,6 @@
 # rpclevel
 
-Use leveldb over rcp. Also, use leveldb over rcp as a leveldown-compatible module so that you can use things like subleveldown.
+Use leveldb over rpc. Also, use leveldb over rpc as a leveldown-compatible module so that you can use things like subleveldown on the client.
 
 This is a learning project to get a better understanding of rpc and leveldown, and could have some wonky things going on. Feedback via the issues queue would be welcome & helpful.
 
